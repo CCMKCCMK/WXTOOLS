@@ -12,7 +12,7 @@
 
 1. 克隆此仓库：
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/CCMKCCMK/WXTOOLS.git
     ```
 2. 安装依赖：
     ```sh
