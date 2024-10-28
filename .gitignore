@@ -1,0 +1,8 @@
+setup.py
+tool.cp311-win_amd64.pyd
+WeChatMsg-master.zip._0
+.vscode/c_cpp_properties.json
+build/temp.win-amd64-cpython-311/Release/tool.cp311-win_amd64.exp
+build/temp.win-amd64-cpython-311/Release/TOOL.obj
+.vscode/settings.json
+.vscode/launch.json
